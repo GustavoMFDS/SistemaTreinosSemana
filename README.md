@@ -17,20 +17,8 @@ Objetivos da Aplicação
 
 Tecnologias Utilizadas
 
-- Java 17
-- Swing (interface gráfica)
-
-Estrutura do Código
-
-O projeto foi organizado em pacotes para separar lógica de domínio e interface gráfica:
-src/
-  dominio/
-    Exercicio.java
-    Semana.java
-    Progresso.java
-  ui/
-    TelaPrincipal.java
-
+- Java 17(versão ultilizada)
+- Swing (interface gráfica simples)
 
 Funcionalidades
 
@@ -41,6 +29,7 @@ Funcionalidades
 - Progresso Semanal: mostra a porcentagem de exercícios concluídos.
 
 Como Executar
+
 - Clone o repositório ou baixe o ZIP.
 - Compile os arquivos:
 javac dominio/*.java ui/*.java
