@@ -1,5 +1,6 @@
 
 Nome do Projeto
+
 Sistema de Controle de Treinos Semanais
 
 Descrição
@@ -38,6 +39,6 @@ java ui.TelaPrincipal
 
 
 Integrantes da Equipe
-- Gustavo Marques Fernandes de Sousa 
-- Gustavo Henrique Souto
+- Gustavo Marques Fernandes de Sousa RA 5167760
+- Gustavo Henrique Souto RA 5168003
 
