@@ -1,14 +1,13 @@
-
-Nome do Projeto
+Nome do Projeto: 
 
 Sistema de Controle de Treinos Semanais
 
-Descrição
+Descrição:
 
 Este projeto foi desenvolvido como parte da disciplina Programação Orientada a Objetos (POO) na UNIUBE.
 O objetivo é criar uma aplicação em Java com interface gráfica Swing que ajude pessoas a organizarem seus treinos semanais.
 
-Objetivos da Aplicação
+Objetivos da Aplicação:
 
 - Facilitar o planejamento e organização da rotina de treinos.
 - Permitir a visualização dos exercícios separados por dia da semana.
@@ -16,12 +15,12 @@ Objetivos da Aplicação
 - Acompanhar o progresso semanal do usuário.
 - Servir como base prática para aplicar os conceitos de POO.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 - Java 17(versão ultilizada)
 - Swing (interface gráfica simples)
 
-Funcionalidades
+Funcionalidades:
 
 - Cadastro de Exercícios: o usuário informa nome, grupo muscular, duração e dia da semana.
 - Listagem: todos os exercícios aparecem organizados em uma tabela.
@@ -29,7 +28,7 @@ Funcionalidades
 - Remover Exercício: exclui um exercício da lista.
 - Progresso Semanal: mostra a porcentagem de exercícios concluídos.
 
-Como Executar
+Como Executar:
 
 - Clone o repositório ou baixe o ZIP.
 - Compile os arquivos:
@@ -38,7 +37,7 @@ javac dominio/*.java ui/*.java
 java ui.TelaPrincipal
 
 
-Integrantes da Equipe
+Integrantes da Equipe:
 - Gustavo Marques Fernandes de Sousa RA 5167760
-- Gustavo Henrique Souto RA 5168003
+- Gustavo Henrique Souto Santos RA 5168003
 
