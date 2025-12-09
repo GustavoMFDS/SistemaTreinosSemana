@@ -13,7 +13,6 @@ Objetivos da Aplicação:
 - Permitir a visualização dos exercícios separados por dia da semana.
 - Registrar quando um exercício foi realizado.
 - Acompanhar o progresso semanal do usuário.
-- Servir como base prática para aplicar os conceitos de POO.
 
 Tecnologias Utilizadas:
 
@@ -31,9 +30,9 @@ Funcionalidades:
 Como Executar:
 
 - Clone o repositório ou baixe o ZIP.
-- Compile os arquivos:
+- Compile os arquivos: 
 javac dominio/*.java ui/*.java
-- Execute a aplicação:
+- Execute a aplicação: 
 java ui.TelaPrincipal
 
 
